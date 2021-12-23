@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rawan!
+- 👋 Hi, I’m Rawan, and my life, is kinda nerdy
 - 👀 Data Science & Machine Learning
 - 🌱 MS Data Science student
 - 📫 hammadrawan@outlook.com
