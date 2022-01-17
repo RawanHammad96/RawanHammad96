@@ -4,4 +4,4 @@
 - 📫 hammadrawan@outlook.com
 - https://www.linkedin.com/in/rawan-hammad/
 
-I'm new to GitHub but I plan on posting more of the code I'm writing in school and independent projects in the future.
+I'm new to GitHub but I plan on posting more of the work I've for job assessments, school, and independently. 
