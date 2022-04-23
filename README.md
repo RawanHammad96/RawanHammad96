@@ -4,4 +4,3 @@
 - 📫 hammadrawan@outlook.com
 - https://www.linkedin.com/in/rawan-hammad/
 
-I'm new to GitHub but I plan on posting more of the work I've done for job assessments, school, and independently. 
